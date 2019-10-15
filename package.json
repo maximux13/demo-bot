@@ -1,0 +1,23 @@
+{
+  "name": "demo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximux13/demo-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximux13/demo-bot/issues"
+  },
+  "homepage": "https://github.com/maximux13/demo-bot#readme",
+  "dependencies": {
+    "lodash-es": "4.17.11"
+  }
+}
